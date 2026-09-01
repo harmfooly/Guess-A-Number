@@ -9,4 +9,3 @@
 * Increment turn counter each time a guess is processed
 * Stop upon correct guess
 * Upon program stop, provide a message with number of turns
-* Increment turn counter each time a guess is processed
