@@ -4,6 +4,8 @@
 #include <stdlib.h>
 #include <stdbool.h>
 
+// Algorithm is posted in README.
+
 int main(){
 	// Establish variables
 	char userName[20];
